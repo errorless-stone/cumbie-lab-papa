@@ -6,7 +6,7 @@
     "mongodb": "^6.1.0",
     "nodemon": "^3.0.1"
   },
-  "name": "cuddly-palm-not-tree-papa",
+  "name": "cumbi-lab-papa",
   "description": "[486🚀](https://gist.github.com/barrycumbie/bbf76cb219a3e7579de1607d7e91fceb)",
   "version": "1.0.0",
   "main": "app.js",
