@@ -68,11 +68,11 @@ app.get('/', function (req, res) {
 })
 
 app.get('/whatever', function (req, res) {
-  res.sendFile(__dirname + '/index.html');
+  res.sendFile(__dirname + '/index.ejs');
 })
 
 
 
-// app.listen(3000)
+// app.listen(5500)
 
 app.listen(port, () => console.log(`Server is running...on ${ port }` ));
